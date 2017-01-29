@@ -1,12 +1,12 @@
 Package: com.brandonnoah.testtweak
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: brandonnoah <brandonnoah1111@gmail.com>
 Filename: /testtweak.deb
 Size: 2250
-MD5sum: 1ff7c6f1823917fbe62179f099761625
-SHA1: b37cb5e1376e82a57d0e9e4991f0e935e0239f99
-SHA256: b70be490ae3f1dabc52ae510cae323fe95dfc3c8c2e6d486c2e30bb8bd4c789b
+MD5sum: 740cee4995c8afa21037cfaafd55006a
+SHA1: 7bbd4a32efc87a6454ea4552beb932ae55e2a8c1
+SHA256: 5a47ce94cf31030bf13a75f8594a218b12640528ba81339811406434c6272d05
 Section: Tweaks
 Description: Test tweak for my repo
 Author: brandonnoah <brandonnoah1111@gmail.com>
